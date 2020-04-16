@@ -1,0 +1,30 @@
+h1
+{
+  background-color: black;
+  color:white;
+  text-align:center;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+}
+p{
+
+  color:green ;
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+}
+div{
+  background-color: yellow;
+  color: black;
+  height: auto;
+  width: auto;
+  padding: 40px;
+  margin: 100px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+  border: 10px solid black;
+}
